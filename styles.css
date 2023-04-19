@@ -36,7 +36,7 @@
     margin-right: 1rem;
 }
 
-@media (max-width: 575.98px) {
+@media (max-width: 576px) {
     #boton-generar{
         margin-right: 0;
         margin-bottom: 1rem;
